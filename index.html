@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Folheto Digital de Vinhos</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>🍷 Folheto Digital de Vinhos</h1>
+    <input type="text" id="search" placeholder="🔍 Buscar vinho...">
+  </header>
+
+  <main class="produtos" id="produtos">
+    <!-- Produtos carregados pelo JS -->
+  </main>
+
+  <footer>
+    <p>© 2025 - Vinhos Exemplo</p>
+  </footer>
+
+  <!-- Modal -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span id="close" class="close">&times;</span>
+      <img id="modal-img" src="" alt="">
+      <h2 id="modal-nome"></h2>
+      <p id="modal-descricao"></p>
+      <ul id="modal-ficha">
+        <li><strong>Volume:</strong> <span id="modal-volume"></span></li>
+        <li><strong>Uva:</strong> <span id="modal-uva"></span></li>
+        <li><strong>Teor Alcoólico:</strong> <span id="modal-teor"></span></li>
+        <li><strong>Região:</strong> <span id="modal-regiao"></span></li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,182 @@
+[
+  {
+    "nome": "Vinho Terras del Rei",
+    "descricao": "Corpo intenso e notas de frutas vermelhas.",
+    "imagem": "img/vinho1.jpg",
+    "volume": "750ml",
+    "uva": "Cabernet Sauvignon",
+    "teor_alcoolico": "13%",
+    "regiao": "Vale dos Vinhedos"
+  },
+  {
+    "nome": "Vinho Casal Garcia",
+    "descricao": "Aroma floral e refrescante.",
+    "imagem": "img/vinho2.jpg",
+    "volume": "750ml",
+    "uva": "Chardonnay",
+    "teor_alcoolico": "12%",
+    "regiao": "Serra Gaúcha"
+  },
+  {
+    "nome": "Vinho Rosé Premium",
+    "descricao": "Leve, elegante e frutado.",
+    "imagem": "img/vinho3.jpg",
+    "volume": "750ml",
+    "uva": "Grenache",
+    "teor_alcoolico": "12,5%",
+    "regiao": "Provence"
+  },
+  {
+    "nome": "Vinho Tinto Intenso",
+    "descricao": "Sabor encorpado e notas de chocolate.",
+    "imagem": "img/vinho4.jpg",
+    "volume": "750ml",
+    "uva": "Merlot",
+    "teor_alcoolico": "14%",
+    "regiao": "Mendoza"
+  },
+  {
+    "nome": "Vinho Branco Doce",
+    "descricao": "Leve, frutado e refrescante.",
+    "imagem": "img/vinho5.jpg",
+    "volume": "750ml",
+    "uva": "Moscato",
+    "teor_alcoolico": "11%",
+    "regiao": "Vale do Loire"
+  },
+  {
+    "nome": "Vinho Tinto Clássico",
+    "descricao": "Sabor equilibrado e taninos suaves.",
+    "imagem": "img/vinho6.jpg",
+    "volume": "750ml",
+    "uva": "Malbec",
+    "teor_alcoolico": "13,5%",
+    "regiao": "Patagônia"
+  },
+  {
+    "nome": "Vinho Rosé Suave",
+    "descricao": "Frutado e fácil de beber.",
+    "imagem": "img/vinho7.jpg",
+    "volume": "750ml",
+    "uva": "Pinot Noir",
+    "teor_alcoolico": "12%",
+    "regiao": "California"
+  },
+  {
+    "nome": "Vinho Branco Seco Premium",
+    "descricao": "Aroma cítrico e fresco.",
+    "imagem": "img/vinho8.jpg",
+    "volume": "750ml",
+    "uva": "Sauvignon Blanc",
+    "teor_alcoolico": "12,5%",
+    "regiao": "Nova Zelândia"
+  },
+  {
+    "nome": "Vinho Tinto Suave",
+    "descricao": "Notas de frutas vermelhas maduras.",
+    "imagem": "img/vinho9.jpg",
+    "volume": "750ml",
+    "uva": "Syrah",
+    "teor_alcoolico": "13%",
+    "regiao": "Rioja"
+  },
+  {
+    "nome": "Vinho Rosé Elegante",
+    "descricao": "Leve e aromático.",
+    "imagem": "img/vinho10.jpg",
+    "volume": "750ml",
+    "uva": "Cinsault",
+    "teor_alcoolico": "12%",
+    "regiao": "Provence"
+  },
+  {
+    "nome": "Vinho Tinto Encorpado",
+    "descricao": "Taninos marcantes e sabor intenso.",
+    "imagem": "img/vinho11.jpg",
+    "volume": "750ml",
+    "uva": "Cabernet Franc",
+    "teor_alcoolico": "14%",
+    "regiao": "Bordeaux"
+  },
+  {
+    "nome": "Vinho Branco Aromático",
+    "descricao": "Notas de frutas tropicais e frescor.",
+    "imagem": "img/vinho12.jpg",
+    "volume": "750ml",
+    "uva": "Riesling",
+    "teor_alcoolico": "12%",
+    "regiao": "Alemanha"
+  },
+  {
+    "nome": "Vinho Rosé Frutado",
+    "descricao": "Leve e refrescante.",
+    "imagem": "img/vinho13.jpg",
+    "volume": "750ml",
+    "uva": "Zinfandel",
+    "teor_alcoolico": "12,5%",
+    "regiao": "California"
+  },
+  {
+    "nome": "Vinho Tinto Reserva Especial",
+    "descricao": "Complexo, elegante e encorpado.",
+    "imagem": "img/vinho14.jpg",
+    "volume": "750ml",
+    "uva": "Tempranillo",
+    "teor_alcoolico": "14%",
+    "regiao": "Rioja"
+  },
+  {
+    "nome": "Vinho Branco Fresco",
+    "descricao": "Aroma leve e notas cítricas.",
+    "imagem": "img/vinho15.jpg",
+    "volume": "750ml",
+    "uva": "Chenin Blanc",
+    "teor_alcoolico": "12%",
+    "regiao": "Vale do Loire"
+  },
+  {
+    "nome": "Vinho Rosé Seco",
+    "descricao": "Frutado e refrescante.",
+    "imagem": "img/vinho16.jpg",
+    "volume": "750ml",
+    "uva": "Sangiovese",
+    "teor_alcoolico": "12,5%",
+    "regiao": "Toscana"
+  },
+  {
+    "nome": "Vinho Tinto Clássico Premium",
+    "descricao": "Sabor intenso e taninos equilibrados.",
+    "imagem": "img/vinho17.jpg",
+    "volume": "750ml",
+    "uva": "Malbec",
+    "teor_alcoolico": "13,5%",
+    "regiao": "Mendoza"
+  },
+  {
+    "nome": "Vinho Branco Seco Elegante",
+    "descricao": "Notas florais e frescor agradável.",
+    "imagem": "img/vinho18.jpg",
+    "volume": "750ml",
+    "uva": "Viognier",
+    "teor_alcoolico": "12%",
+    "regiao": "Vale do Rhône"
+  },
+  {
+    "nome": "Vinho Rosé Premium",
+    "descricao": "Leve, frutado e elegante.",
+    "imagem": "img/vinho19.jpg",
+    "volume": "750ml",
+    "uva": "Grenache",
+    "teor_alcoolico": "12,5%",
+    "regiao": "Provence"
+  },
+  {
+    "nome": "Vinho Tinto Especial",
+    "descricao": "Complexo, encorpado e sabor intenso.",
+    "imagem": "img/vinho20.jpg",
+    "volume": "750ml",
+    "uva": "Cabernet Sauvignon",
+    "teor_alcoolico": "14%",
+    "regiao": "Vale dos Vinhedos"
+  }
+]
