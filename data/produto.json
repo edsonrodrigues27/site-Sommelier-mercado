@@ -1,33 +1,33 @@
 [
   {
     "nome": "Vinho Terras del Rei",
-    "descricao": "Corpo intenso e notas de frutas vermelhas.",
+    "descricao": "Tinto Seco, Corpo intenso e notas de frutas vermelhas.",
     "imagem": "img/vinho1.jpg",
     "volume": "750ml",
-    "uva": "Cabernet Sauvignon",
+    "uva": "Castelão, Aragonês, Moreto e Trincadeira",
     "teor_alcoolico": "13%",
-    "regiao": "Vale dos Vinhedos"
+    "regiao": "Alentejo, Portugal"
   },
   {
     "nome": "Vinho Casal Garcia",
-    "descricao": "Aroma floral e refrescante.",
-    "imagem": "img/vinho2.jpg",
+    "descricao": "Tinto suave, Frutas Vermelhas, Frutas Negras E Toques Florais.",
+    "imagem": "img/garcia2.jpg",
     "volume": "750ml",
-    "uva": "Chardonnay",
-    "teor_alcoolico": "12%",
-    "regiao": "Serra Gaúcha"
+    "uva": "Touriga Nacional",
+    "teor_alcoolico": "13%",
+    "País": "Portugal"
   },
   {
-    "nome": "Vinho Rosé Premium",
-    "descricao": "Leve, elegante e frutado.",
+    "nome": "Lisbonita",
+    "descricao": "Tinto Meio Seco. Este é um vinho muito aromático e frutado, predominantes notas a frutos vermelhos maduros.",
     "imagem": "img/vinho3.jpg",
     "volume": "750ml",
-    "uva": "Grenache",
-    "teor_alcoolico": "12,5%",
-    "regiao": "Provence"
+    "uva": "Castelão, Syrah, Tinta Roriz e Touriga Franca.",
+    "teor_alcoolico": "13,5%",
+    "regiao": " Lisboa,Portugal "
   },
   {
-    "nome": "Vinho Tinto Intenso",
+    "nome": "Casa del Puerto",
     "descricao": "Sabor encorpado e notas de chocolate.",
     "imagem": "img/vinho4.jpg",
     "volume": "750ml",
@@ -36,7 +36,7 @@
     "regiao": "Mendoza"
   },
   {
-    "nome": "Vinho Branco Doce",
+    "nome": "Vinho Chilano",
     "descricao": "Leve, frutado e refrescante.",
     "imagem": "img/vinho5.jpg",
     "volume": "750ml",
@@ -45,11 +45,11 @@
     "regiao": "Vale do Loire"
   },
   {
-    "nome": "Vinho Tinto Clássico",
-    "descricao": "Sabor equilibrado e taninos suaves.",
+    "nome": "Club de Sommeliers",
+    "descricao": "Tinto Meio Seco,O Vinho Chileno Tinto Club Des Sommeliers Carmenére é uma seleção exclusiva que traz a essência dos vinhedos chilenos diretamente para sua taça. ",
     "imagem": "img/vinho6.jpg",
     "volume": "750ml",
-    "uva": "Malbec",
+    "uva": "Carménère",
     "teor_alcoolico": "13,5%",
     "regiao": "Patagônia"
   },
